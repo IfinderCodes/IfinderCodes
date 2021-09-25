@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IfinderCodes
 - 👀 I’m interested in Viruses and Trojans
-- 🌱 I’m currently learning Python code and other stuff
+- 🌱 I’m currently learning C# and other C++ stuff
 
 <!---
 IfinderCodes/IfinderCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
