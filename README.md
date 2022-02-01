@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IfinderCodes
-- 👀 I’m interested in Viruses and Trojans
 - 🌱 I’m currently learning C# and other C++ stuff
 
 <!---
